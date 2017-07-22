@@ -1063,6 +1063,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [SwiftyAttributes](https://github.com/eddiekaiger/SwiftyAttributes) - Extensions that make it a breeze to work with attributed strings.
 * [SyntaxKit](https://github.com/soffes/SyntaxKit) - TextMate-style syntax highlighting.
 * [TextAttributes](https://github.com/delba/TextAttributes) - An easier way to compose attributed strings.
+* [SwiftLinkDetector](https://github.com/delba/TextAttributes) - Automatic link detector (support all all TLD domains).
 
 ### Thread
 *Threading, task-based or asynchronous programming, Grand Central Dispatch (GCD) wrapper* [back to top](#readme) 
